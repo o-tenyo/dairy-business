@@ -18,10 +18,9 @@ function totalProduction(){
 }
   console.log(`Total production is ${dailyCapacity} litres per day`);
 }
-
 totalProduction();
 
-function incomeOverTime(sellingPrice, time){
+function incomeOverTime(sellingPrice){
   var dailyIncome = dailyCapacity*sellingPrice;
   console.log(`Your daily income will be Ksh ${dailyIncome}`)
   var weeklyIncome = dailyIncome*7;
@@ -31,4 +30,19 @@ function incomeOverTime(sellingPrice, time){
   var yearlyIncome = weeklyIncome*52;
   console.log(`Your yearly income will be Ksh ${yearlyIncome}`)
   }
-incomeOverTime(); 
+incomeOverTime(45); 
+
+var monthsOftheYear = {
+  January : 31,
+  February : 29,
+  March : 31,
+  April : 30,
+  May : 31,
+  June : 30,
+  July : 31,
+  August : 30,
+  September : 31,
+  October : 30,
+  November : 31,
+  December : 30,
+};
