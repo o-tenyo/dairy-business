@@ -8,3 +8,7 @@
 ### Written by : Johnstone Omundi
 ### Link to gh-pages : https://o-tenyo.github.io/dairy-business/
 ### Contact : johnstone.omundi@student.moringaschool.com
+
+### MIT License
+
+### Copyright (c) 2021 Johnstone Omundi
