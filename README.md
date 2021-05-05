@@ -6,7 +6,7 @@
 #### -object creation and manipulation
 #### Written using VS Code. html and css files included
 #### Written by : Johnstone Omundi
-#### Link to gh-pages : https://o-tenyo.github.io/dairy-business/
+#### Live Link : https://o-tenyo.github.io/dairy-business/
 #### Contact : johnstone.omundi@student.moringaschool.com
 
 #### MIT License
