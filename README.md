@@ -4,11 +4,11 @@
 #### -manipulation 
 #### -function calling
 #### -object creation and manipulation
-### Written using VS Code. html and css files included
-### Written by : Johnstone Omundi
-### Link to gh-pages : https://o-tenyo.github.io/dairy-business/
-### Contact : johnstone.omundi@student.moringaschool.com
+#### Written using VS Code. html and css files included
+#### Written by : Johnstone Omundi
+#### Link to gh-pages : https://o-tenyo.github.io/dairy-business/
+#### Contact : johnstone.omundi@student.moringaschool.com
 
-### MIT License
+#### MIT License
 
-### Copyright (c) 2021 Johnstone Omundi
+#### Copyright (c) 2021 Johnstone Omundi
